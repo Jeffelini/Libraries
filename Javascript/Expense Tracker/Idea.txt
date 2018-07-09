@@ -1,0 +1,12 @@
+Idea:
+  Not to sure how to go about this tbh.
+  Probably start with like, an HTML webpage? Then build everything around it?
+  By like everything, I mean like Javascript, CSS, React Native (maybe),
+  might also need a background database????? 
+  But the ultimate goal is to get it to run on mobile.
+
+Features:
+  Log expenses, tag them (or have categories)
+  List expenses
+  Have a few graphs (last month / last year)
+  Store them somewhere
